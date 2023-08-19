@@ -7,15 +7,20 @@
 Design of an algorithm for analyzing and sorting graphics.
 Demonstration by creating a mosaic graphic.
 
-### Algorithm
+## Algorithm
 The script anlyses the emoji to be displayed and rasterizes it by color values. On this matrix an emoji from the sorted library is placed, which corresponds to the closest matching average color value. Search, selection and placement is done by the automation library PyAutoGUI.
 Sample database: OpenMoji (72 x 72 px, Color)
+
+## How to use
+Make sure to have installed PyAutoGUI and Python3. 
+Change the "goal.png" to get a different mosaic as result.
+You can use the bottom part of the code to clean and sort a custom set of images to use them as mosaic bits.
 
 ### Sources
 * [OpenMoji](https://openmoji.org/)
 * [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
-#### Appendix
+### Appendix
 Learn more on my website: [moritzkuhn.com](https://moritzkuhn.com/projects/OpenMoji-py)
 
 OpenMoji is published under the Creative Commons Share Alike License 4.0: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
