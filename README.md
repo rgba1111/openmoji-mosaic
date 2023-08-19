@@ -1,5 +1,7 @@
 # OpenMoji Mosaic
 
+![1F916_MoritzKuhn_WS19:20](https://github.com/rgba1111/openmoji-mosaic/assets/103372269/24edd64f-d6fd-4425-be1a-d1334e5b99bc)
+
 [Demo Video](https://vimeo.com/452873113)
 
 Design of an algorithm for analyzing and sorting graphics.
